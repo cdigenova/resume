@@ -1756,7 +1756,46 @@ body {
 .cid-qQyzhkt7YQ {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-image: url("../../../assets/images/mbr-720x1080.jpg");
+}
+.cid-qQyDM60FbU {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-qQyDM60FbU h2 {
+  text-align: center;
+}
+.cid-qQyDM60FbU h4 {
+  text-align: center;
+  z-index: 1;
+  color: #ffffff;
+}
+.cid-qQyDM60FbU p {
+  z-index: 1;
+  margin-bottom: 0;
+  color: #ffffff;
+}
+.cid-qQyDM60FbU .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+}
+.cid-qQyDM60FbU .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-qQyDM60FbU .card-img img {
+  z-index: -1;
+  min-height: 100%;
+  min-width: 100%;
+  width: auto;
+  max-width: 600px;
 }
 .cid-qQyzzZnIbF {
   padding-top: 30px;
